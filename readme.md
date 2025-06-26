@@ -4,3 +4,6 @@ ya que hemos aprendido a crear un siatema de base de datos para cualquier negoci
 
 en el curso de base de datos tenemos un proyecto de un negocio con un informe 
 bien explicado
+
+tenemos un mes para entregar el proyecto bien hecho
+y el informe bien explicado.
